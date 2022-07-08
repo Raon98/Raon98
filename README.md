@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/MYSQL-B2CCFF?style=flat-square&logo=MYSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYBATIS-8C8C8C?style=flat-square&logo=MYBATIS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Andriod-1DDB16?style=flat-square&logo=andriod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Andriod-1DDB16?style=flat-square&logo=ANDROID&logoColor=white"/>
 
 
   </p>
