@@ -1,7 +1,7 @@
 <h2 align="left">✨RAON REPOSITORY✨ </h2>
 <span align="left">
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=raon98&show_icons=true&locale=en&theme=dracula" alt="raon98" />
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Raon98&show_icons=true&locale=en&theme=dracula" alt="Raon98" />
     
   <h4 align="left">😳SNS😳</h4>
   <p>
