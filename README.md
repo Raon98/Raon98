@@ -1,8 +1,8 @@
 <h2 align="left">✨RAON REPOSITORY✨ </h2>
 <span align="left">
   <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Raon98&show_icons=true&locale=en&theme=dracula" alt="Raon98" />
-    
+      <https://github-readme-stats.vercel.app/api?username=Raon98&show_icons=true&theme=dracula alt="Raon98">
+      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
   <h4 align="left">😳SNS😳</h4>
   <p>
   <a href="https://www.instagram.com/chexl_x/"><img src="https://img.shields.io/badge/instagram-FD65B0?style=flat-square&logo=instagram&logoColor=white"/></a>
