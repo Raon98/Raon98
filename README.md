@@ -5,7 +5,8 @@
 ![Raon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raon98&show_icons=true&theme=dracula)
   <h4 align="left">😳SNS😳</h4>
   <p>
-  <a href="https://www.instagram.com/chexl_x/"><img src="https://img.shields.io/badge/instagram-FD65B0?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/raonxo/"><img src="https://img.shields.io/badge/instagram-FD65B0?style=flat-square&logo=instagram&logoColor=white"/></a>
+    
   <a href="https://www.facebook.com/profile.php?id=100004633052437"><img src="https://img.shields.io/badge/facebook-1266FF?style=flat-    square&logo=facebook&logoColor=white"/></a>
   </p>
   <h4>👻Study👻</h4>
