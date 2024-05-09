@@ -4,11 +4,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raon98&count_private=true)
   <h4 align="left">😳SNS😳</h4>
-  <p>
+  <span>
   <a href="https://www.instagram.com/raonxo/"><img src="https://img.shields.io/badge/instagram-FD65B0?style=flat-square&logo=instagram&logoColor=white"/></a>
-    
   <a href="https://www.facebook.com/profile.php?id=100004633052437"><img src="https://img.shields.io/badge/facebook-1266FF?style=flat-    square&logo=facebook&logoColor=white"/></a>
-  </p>
+  </span>
   <h4>👻Study👻</h4>
   
   <img src="https://img.shields.io/badge/VUE.JS-86E57F?style=flat-square&logo=VUE.JS&logoColor=white"/>
