@@ -2,7 +2,7 @@
 <span align="left">
   <p>
 
-![Raon98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raon98&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raon98&count_private=true)
   <h4 align="left">😳SNS😳</h4>
   <p>
   <a href="https://www.instagram.com/raonxo/"><img src="https://img.shields.io/badge/instagram-FD65B0?style=flat-square&logo=instagram&logoColor=white"/></a>
